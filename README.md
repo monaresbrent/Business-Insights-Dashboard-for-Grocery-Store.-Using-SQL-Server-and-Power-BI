@@ -11,7 +11,6 @@ This project analyzes sales performance using Power BI.
 ## Tools Used
 - Power BI
 - SQL Server
-- Microsoft Excel
 
 ## KPIs
 - Total Sales
